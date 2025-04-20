@@ -15,7 +15,7 @@ Es pequeño (75x85x10mm), ligero (70gr) y gasta muy poca energía.
 
 - Chasis de dos piezas en PLA que se unen mediante 4 tornillos de M3x10.
 - Incluye gancho para poderlo colgar del cuello o de la mano.
-- MCU XIAO ESP32C3 de SEEED STUDIO.
+- MCU XIAO ESP32C3 de Seeed Studio.
 - Batería Ion Litio de 150mAh.
 - Interruptor de encendido y 3 pushbutton para interfaz (Up, Down, Enter).
 - Pantalla Sharp Memory Display de 400x240px de Adafruit. Muy bajo consumo. 
@@ -50,9 +50,9 @@ He trabajado en enseñanza, industria de automoción, telefonía móvil, impresi
 
 Tengo varios hobbies, entre ellos la Permacultura. Soy también un maker entusiasta y construyo cosas como impresoras 3D o ARSandbox.
 
-**Hago este tipo de proyectos en mi tiempo libre. Si te gustan y deseas apoyar que siga con ellos puedes donar o aportar en:**
+**Hago este tipo de proyectos en mi tiempo libre. Si te gustan y deseas apoyar que siga con ellos puedes donar o aportar en ko-fi:**
 
-**https://ko-fi.com/victorbarahona**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F81DFZ9Q)
 
 [**Mi cuenta Github**](https://github.com/Egokitek)
 
