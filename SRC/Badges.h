@@ -1,0 +1,17 @@
+///////////////////////////////////////////////////////////
+///                  TINYCORDER V1.0                    ///
+///////////////////////////////////////////////////////////
+/// Mapas de bits de los Badges que contiene TINYCORDER ///
+///////////////////////////////////////////////////////////
+///           Victor Barahona - Diciembre 2024          ///
+///                www.victorbarahona.com               ///
+///////////////////////////////////////////////////////////
+
+#ifndef BADGES_H
+#define BADGES_H
+
+#include <Arduino.h>
+
+extern const unsigned char vj_personal_badge[];
+
+#endif

@@ -32,11 +32,15 @@ Es pequeño (75x85x10mm), ligero (70gr) y gasta muy poca energía.
 
 [**Montaje** ](Montaje/README.md) 
 
-Proceso de montaje mediante fotos comentadas. **EN CONSTRUCCION.** 
+Proceso de montaje mediante fotos comentadas. 
 
 [**STLs** ](STL/README.md) 
 
-Ficheros STL listos para imprimir. **EN CONSTRUCCION.** 
+Ficheros STL listos para imprimir. 
+
+[**SRC** ](STL/README.md) 
+
+Ficheros Arduino.
 
 ## Lista de componentes (BOM)
 
