@@ -38,7 +38,7 @@ Proceso de montaje mediante fotos comentadas.
 
 Ficheros STL listos para imprimir. 
 
-[**SRC** ](STL/README.md) 
+[**SRC** ](SRC/README.md) 
 
 Ficheros Arduino.
 
