@@ -1,9 +1,9 @@
 ///////////////////////////////////////////////////////////
-///                  TINYCORDER V1.0                    ///
+///                  TINYCORDER V2.0                    ///
 ///////////////////////////////////////////////////////////
-/// Mapas de bits de los Badges que contiene TINYCORDER ///
+///                    MAIN PROGRAM                     ///
 ///////////////////////////////////////////////////////////
-///           Victor Barahona - Diciembre 2024          ///
+///           Victor Barahona - July 2025               ///
 ///                www.victorbarahona.com               ///
 ///////////////////////////////////////////////////////////
 
@@ -776,7 +776,7 @@ const unsigned char vj_personal_badge[] PROGMEM = {
 
 
 //////////////////////
-/// FIN DE FICHERO ///
+///   END OF FILE  ///
 //////////////////////
 
 
